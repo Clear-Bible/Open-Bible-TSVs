@@ -5,6 +5,7 @@ This repo contains two kinds of TSVs:
 2. token-level (where each row is a token).
 
 Verse-level TSVs can be found at `language_code/translation_abbreviation/verse`
+
 Token-level TSVs can be found at `language_code/translation_abbreviation/token` 
 
 A TSV's version number is indicated by its creation date.  Dates are in the format year, month, day (ex. 20252402 is February 24th, 2025).  
